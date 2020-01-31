@@ -1,0 +1,19 @@
+.jumbotron{
+    text-align: center;
+    background-color: green;
+}
+body{
+    background-color: rgb(47, 228, 219);
+}
+#div1, #div2{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    display: inline-block;
+}
+.btn{
+    margin: 10px;
+}
+input{
+    margin: 5px;
+}
